@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 #python main.py --mode train --dataset demo
 
 #export WM_UI_DISPLAY=TRUE
